@@ -42,14 +42,6 @@
 
 ---
 
-
-
-### 🛠️ Linguagens Mais Usadas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fribeiro86&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
----
-
 ### 🚀 Sobre Mim & Objetivos
 - 📍 Localizado em **Florianópolis/SC**.
 - 🛡️ Especialista em **Forense Digital** e integridade de dados.
