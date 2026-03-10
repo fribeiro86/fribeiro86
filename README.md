@@ -14,11 +14,15 @@
 ---
 
 ### 📊 Estatísticas de Código
+### 📊 Estatísticas de Código
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fribeiro86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fribeiro86&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
+### 🛠️ Linguagens Mais Usadas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fribeiro86&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 ---
 
 ### 🚀 Sobre Mim & Objetivos
